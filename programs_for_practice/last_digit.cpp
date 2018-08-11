@@ -14,4 +14,4 @@ int main(){
 	cin>>n;
 	cout<<calc_last_digit(n);
 	return 0;
-}
+}8
